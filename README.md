@@ -1,6 +1,6 @@
 # Atividade 3 – WEB I (HTML)
 
-Este projeto corresponde à **Atividade 2** da disciplina de **Desenvolvimento Web I**, desenvolvida inteiramente com **HTML5**.  
+Este projeto corresponde à **Atividade 3** da disciplina de **Desenvolvimento Web I**, desenvolvida inteiramente com **HTML5**.  
   
 
 ---
